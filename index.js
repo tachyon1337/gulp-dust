@@ -1,7 +1,7 @@
 'use strict';
 var gutil = require('gulp-util');
 var through = require('through2');
-var dust = require('dustjs-linkedin');
+var dust = require('dustjs-elliptical');
 
 module.exports = function (options) {
 	options = options || {};

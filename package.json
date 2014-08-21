@@ -30,7 +30,7 @@
     "compile"
   ],
   "dependencies": {
-    "dustjs-linkedin": "^2.4.0",
+    "dustjs-elliptical": "git+https://github.com/tachyon1337/dustjs.git",
     "gulp-util": "^3.0.0",
     "through2": "^0.5.1"
   },
